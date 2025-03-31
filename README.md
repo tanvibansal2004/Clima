@@ -18,4 +18,4 @@ A React Native mobile application that provides current weather conditions and 7
 
 Get the latest version of the WeatherApp:
 
-[![Download APK](https://img.shields.io/github/v/release/tanvibansal2004/WeatherApp?color=green&label=Download&logo=android)](https://github.com/tanvibansal2004/WeatherApp/releases/latest/download/app-release.apk)
+[![Download APK](https://img.shields.io/github/v/release/tanvibansal2004/Weather-Application?color=green&label=Download&logo=android)](https://github.com/tanvibansal2004/Weather-Application/releases/latest/download/app-release.apk)
