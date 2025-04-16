@@ -1,4 +1,4 @@
-# Weather App
+# Clima - Weather App
 
 A React Native mobile application that provides current weather conditions and 7-day forecasts.
 
